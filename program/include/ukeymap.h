@@ -5,16 +5,18 @@
 #include <QFile>
 #include <QJsonDocument>
 #include <QJsonObject>
+#include <QJsonArray>
+#include <QJsonValue>
 #include <QList>
 #endif // UKEYMAP_H
 
-class ukeymap
+class uKeymap
 {
 private:
     int row,total;
     QList<int> cols;
-    QList<ukey> ukey_list;
+    QList<uKey> ukey_list;
 public:
-    ukeymap(QString filepath){ readKeymapFromJSON(filepath);}
+    uKeymap(QString filepath){ readKeymapFromJSON(filepath);}
     ERROR_CODE readKeymapFromJSON(QString filepath);
 };

@@ -5,15 +5,15 @@
  * key_width
 */
 enum UKEY_WIDTH {
-    _100U, _125U, _150U, _175U, _200U, _225U, _275U, _600U, _625U, _700U
+    _EMPTY=0, _100U, _125U, _150U, _175U, _200U, _225U, _275U, _600U, _625U, _700U
 };
 
 enum UKEY_STATUS {
-    _await, _press, _hold
+    _await=0, _press, _hold
 };
 
 enum ERROR_CODE {
-    _NO_ERROR, _VALUE_ERROR
+    _NO_ERROR=0, _VALUE_ERROR
 };
 
 enum UKEY_VALUE {

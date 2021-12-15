@@ -21,7 +21,28 @@ QString ukey_string[]= {
     "right", "left", "down", "up", "LM2", "LM3", "LM4"
 };
 
-ERROR_CODE ukey::registerLayer(int layer, UKEY_VALUE uv) {
+uKey::uKey(UKEY_WIDTH uw, UKEY_VALUE uv) {
+    width = uw;
+    value[0] = uv;
+    value[1] = value[2] = value[3] = _null;
+    vicevalue[0] = vicevalue[1] = vicevalue[2] = vicevalue[3] = _null;
+}
+
+uKey::uKey(UKEY_WIDTH uw, UKEY_VALUE uv0, UKEY_VALUE uv1,
+     UKEY_VALUE uv2, UKEY_VALUE uv3, UKEY_VALUE uvv0,
+     UKEY_VALUE uvv1, UKEY_VALUE uvv2, UKEY_VALUE uvv3) {
+    width = uw;
+    value[0] = uv0;
+    value[1] = uv1;
+    value[2] = uv2;
+    value[3] = uv3;
+    vicevalue[0] = uvv0;
+    vicevalue[1] = uvv1;
+    vicevalue[2] = uvv2;
+    vicevalue[3] = uvv3;
+}
+
+ERROR_CODE uKey::registerLayer(int layer, UKEY_VALUE uv) {
     value[layer] = uv;
     return _NO_ERROR;
 }
