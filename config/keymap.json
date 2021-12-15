@@ -10,7 +10,7 @@
         {
             "rowNo": 0,
             "colNo": 0,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 86,
             "valueLayer2": 107,
             "valueLayer3": 73,
@@ -23,7 +23,7 @@
         {
             "rowNo": 0,
             "colNo": 1,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 17,
             "valueLayer2": 53,
             "valueLayer3": 74,
@@ -36,7 +36,7 @@
         {
             "rowNo": 0,
             "colNo": 2,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 23,
             "valueLayer2": 54,
             "valueLayer3": 75,
@@ -49,7 +49,7 @@
         {
             "rowNo": 0,
             "colNo": 3,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 5,
             "valueLayer2": 55,
             "valueLayer3": 76,
@@ -62,7 +62,7 @@
         {
             "rowNo": 0,
             "colNo": 4,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 16,
             "valueLayer2": 0,
             "valueLayer3": 77,
@@ -75,7 +75,7 @@
         {
             "rowNo": 0,
             "colNo": 5,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 20,
             "valueLayer2": 0,
             "valueLayer3": 78,
@@ -88,7 +88,7 @@
         {
             "rowNo": 0,
             "colNo": 6,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 25,
             "valueLayer2": 0,
             "valueLayer3": 79,
@@ -101,7 +101,7 @@
         {
             "rowNo": 0,
             "colNo": 7,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 21,
             "valueLayer2": 0,
             "valueLayer3": 80,
@@ -114,7 +114,7 @@
         {
             "rowNo": 0,
             "colNo": 8,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 9,
             "valueLayer2": 0,
             "valueLayer3": 81,
@@ -127,7 +127,7 @@
         {
             "rowNo": 0,
             "colNo": 9,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 15,
             "valueLayer2": 100,
             "valueLayer3": 82,
@@ -140,7 +140,7 @@
         {
             "rowNo": 0,
             "colNo": 10,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 16,
             "valueLayer2": 101,
             "valueLayer3": 83,
@@ -153,7 +153,7 @@
         {
             "rowNo": 0,
             "colNo": 11,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 87,
             "valueLayer2": 0,
             "valueLayer3": 84,
@@ -166,7 +166,7 @@
         {
             "rowNo": 1,
             "colNo": 0,
-            "width": 125,
+            "width": 2,
             "valueLayer1": 88,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -179,7 +179,7 @@
         {
             "rowNo": 1,
             "colNo": 1,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 1,
             "valueLayer2": 56,
             "valueLayer3": 0,
@@ -192,7 +192,7 @@
         {
             "rowNo": 1,
             "colNo": 2,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 19,
             "valueLayer2": 57,
             "valueLayer3": 0,
@@ -205,7 +205,7 @@
         {
             "rowNo": 1,
             "colNo": 3,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 4,
             "valueLayer2": 58,
             "valueLayer3": 0,
@@ -218,7 +218,7 @@
         {
             "rowNo": 1,
             "colNo": 4,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 6,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -231,7 +231,7 @@
         {
             "rowNo": 1,
             "colNo": 5,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 7,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -244,7 +244,7 @@
         {
             "rowNo": 1,
             "colNo": 6,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 8,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -257,7 +257,7 @@
         {
             "rowNo": 1,
             "colNo": 7,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 10,
             "valueLayer2": 102,
             "valueLayer3": 0,
@@ -270,7 +270,7 @@
         {
             "rowNo": 1,
             "colNo": 8,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 11,
             "valueLayer2": 103,
             "valueLayer3": 0,
@@ -283,7 +283,7 @@
         {
             "rowNo": 1,
             "colNo": 9,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 12,
             "valueLayer2": 104,
             "valueLayer3": 0,
@@ -296,7 +296,7 @@
         {
             "rowNo": 1,
             "colNo": 10,
-            "width": 175,
+            "width": 4,
             "valueLayer1": 85,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -309,7 +309,7 @@
         {
             "rowNo": 2,
             "colNo": 0,
-            "width": 175,
+            "width": 4,
             "valueLayer1": 93,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -322,7 +322,7 @@
         {
             "rowNo": 2,
             "colNo": 1,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 26,
             "valueLayer2": 59,
             "valueLayer3": 0,
@@ -335,7 +335,7 @@
         {
             "rowNo": 2,
             "colNo": 2,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 24,
             "valueLayer2": 60,
             "valueLayer3": 0,
@@ -348,7 +348,7 @@
         {
             "rowNo": 2,
             "colNo": 3,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 3,
             "valueLayer2": 61,
             "valueLayer3": 0,
@@ -361,7 +361,7 @@
         {
             "rowNo": 2,
             "colNo": 4,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 22,
             "valueLayer2": 62,
             "valueLayer3": 0,
@@ -374,7 +374,7 @@
         {
             "rowNo": 2,
             "colNo": 5,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 2,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -387,7 +387,7 @@
         {
             "rowNo": 2,
             "colNo": 6,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 14,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -400,7 +400,7 @@
         {
             "rowNo": 2,
             "colNo": 7,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 13,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -413,7 +413,7 @@
         {
             "rowNo": 2,
             "colNo": 8,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 108,
             "valueLayer2": 116,
             "valueLayer3": 0,
@@ -426,7 +426,7 @@
         {
             "rowNo": 2,
             "colNo": 9,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 109,
             "valueLayer2": 106,
             "valueLayer3": 0,
@@ -439,7 +439,7 @@
         {
             "rowNo": 2,
             "colNo": 10,
-            "width": 125,
+            "width": 2,
             "valueLayer1": 110,
             "valueLayer2": 133,
             "valueLayer3": 0,
@@ -452,7 +452,7 @@
         {
             "rowNo": 3,
             "colNo": 0,
-            "width": 125,
+            "width": 2,
             "valueLayer1": 92,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -465,7 +465,7 @@
         {
             "rowNo": 3,
             "colNo": 1,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 94,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -478,7 +478,7 @@
         {
             "rowNo": 3,
             "colNo": 2,
-            "width": 125,
+            "width": 2,
             "valueLayer1": 95,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -491,7 +491,7 @@
         {
             "rowNo": 3,
             "colNo": 3,
-            "width": 225,
+            "width": 6,
             "valueLayer1": 89,
             "valueLayer2": 92,
             "valueLayer3": 0,
@@ -504,7 +504,7 @@
         {
             "rowNo": 3,
             "colNo": 4,
-            "width": 275,
+            "width": 7,
             "valueLayer1": 89,
             "valueLayer2": 92,
             "valueLayer3": 0,
@@ -517,7 +517,7 @@
         {
             "rowNo": 3,
             "colNo": 5,
-            "width": 125,
+            "width": 2,
             "valueLayer1": 99,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -530,7 +530,7 @@
         {
             "rowNo": 3,
             "colNo": 6,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 98,
             "valueLayer2": 0,
             "valueLayer3": 0,
@@ -543,7 +543,7 @@
         {
             "rowNo": 3,
             "colNo": 7,
-            "width": 100,
+            "width": 1,
             "valueLayer1": 134,
             "valueLayer2": 0,
             "valueLayer3": 0,
